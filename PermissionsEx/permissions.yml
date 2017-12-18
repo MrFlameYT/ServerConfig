@@ -155,7 +155,7 @@ groups:
     inheritance:
     - commonherotraits
     options:
-      prefix: '&4Mi&9s&es&4M&4a&9rv&eel&0(&4K&9K&0)'
+      prefix: '&4Mi&9s&es. &4M&4a&9rv&eel&0(&4K&9K&0)'
       suffix: '&4'
     worlds:
       superherocity:
